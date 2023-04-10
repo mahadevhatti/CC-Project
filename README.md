@@ -12,7 +12,7 @@
 ### Example:
 #### Sample output
 ![image](https://raw.githubusercontent.com/mahadevhatti/CC-Project/main/Result-Images/image-1.jpg)
-
+\n\n
 ![image](https://raw.githubusercontent.com/mahadevhatti/CC-Project/main/Result-Images/image-2.jpg)
 
 
