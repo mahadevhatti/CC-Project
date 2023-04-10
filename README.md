@@ -11,7 +11,7 @@
 
 ### Example:
 #### Sample output
-![image](https://user-images.githubusercontent.com/79687143/230666006-e9b9be29-23fa-458c-bdaa-25592e21cd44.png)
+![image](https://raw.githubusercontent.com/mahadevhatti/CC-Project/main/Result-Images/image-1.jpg)
 
 ![image](https://user-images.githubusercontent.com/79687143/230665656-aac8d7d4-565a-437e-8364-ec155bd01fe7.png)
 
