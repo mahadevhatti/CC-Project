@@ -13,7 +13,7 @@
 #### Sample output
 ![image](https://raw.githubusercontent.com/mahadevhatti/CC-Project/main/Result-Images/image-1.jpg)
 
-![image](https://user-images.githubusercontent.com/79687143/230665656-aac8d7d4-565a-437e-8364-ec155bd01fe7.png)
+![image](https://raw.githubusercontent.com/mahadevhatti/CC-Project/main/Result-Images/image-2.jpg)
 
 
 ### Psudo Code
